@@ -1,0 +1,7 @@
+
+streamlit==1.15.0
+google-cloud==2.16.2
+googletrans==4.0.0-rc1
+textblob==0.15.3
+pyngrok==5.1.0
+google-generativeai==0.1.0
